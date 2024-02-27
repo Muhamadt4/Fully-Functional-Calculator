@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fully-Functional-Calculator/static/css/main.00c77d01.css",
+    "main.js": "/Fully-Functional-Calculator/static/js/main.da5be1a0.js",
+    "index.html": "/Fully-Functional-Calculator/index.html",
+    "main.00c77d01.css.map": "/Fully-Functional-Calculator/static/css/main.00c77d01.css.map",
+    "main.da5be1a0.js.map": "/Fully-Functional-Calculator/static/js/main.da5be1a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c77d01.css",
+    "static/js/main.da5be1a0.js"
+  ]
+}
